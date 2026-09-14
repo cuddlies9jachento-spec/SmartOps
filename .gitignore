@@ -1,0 +1,46 @@
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.qmlproject.user
+
+# Qt Build
+build/
+build-*/
+debug/
+release/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 编译文件
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+
+# Qt自动生成
+moc_*
+ui_*
+qrc_*
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# 临时文件
+*.tmp
+*.log
+
+# 敏感配置
+.env
+apikey.txt
+config.local.ini
