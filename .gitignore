@@ -1,4 +1,5 @@
 # Qt Creator
+.qtcreator/
 *.pro.user
 *.pro.user.*
 *.qmlproject.user
